@@ -16,7 +16,7 @@ The output will be a single character. If the Apples scored more points than the
 A. If the Bananas scored more points than the Apples, output B. Otherwise, output T, to indicate a
 tie.
 ### Sample Input 1
-10
+10\n
 3
 7
 8
