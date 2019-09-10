@@ -1,4 +1,6 @@
 # CCC_CEMC_2019_J1
+Create a flowchart and write the program that solves the following problem from the Canadian Computing Competition.
+
 ## Problem J1: Winning Score
 ### Problem Description
 You record all of the scoring activity at a basketball game. Points are scored by a 3-point shot, a
